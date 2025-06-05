@@ -1,0 +1,24 @@
+body{
+    padding:20px;
+}
+button{
+    background-color: aqua;
+    border-color:transparent;
+    border-radius:20px;
+    margin-bottom: 10px;
+    cursor:pointer;
+    transition:height 2s width 2s;
+}
+button:hover{
+    background-color: aquamarine;
+    width:100px;
+    height:30px;
+}
+.user-card {
+  background-color: white;
+  border: 1px solid #ccc;
+  margin: 8px;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 8px #ccc;
+}
